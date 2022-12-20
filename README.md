@@ -14,7 +14,9 @@ Azure TTS 服务支持在 SSML 标记中嵌入词典文件链接的方式使用�
 ```
 https://raw.githubusercontent.com/clover-cn/azure-tts-lexicon-cn/main/lexicon.xml
 ```
-
+`
+https://raw.githubusercontent.com/clover-cn/azure-tts-lexicon-cn/main/lexicon.xml
+`
 在 SSML 中使用词典文件：
 ``` xml
 <speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis"
