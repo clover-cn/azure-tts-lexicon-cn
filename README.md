@@ -12,7 +12,7 @@ Azure TTS 服务支持在 SSML 标记中嵌入词典文件链接的方式使用�
 
 词典文件的链接为：
 ```
-https://raw.githubusercontent.com/wxxxcxx/azure-tts-lexicon-cn/main/lexicon.xml
+https://raw.githubusercontent.com/clover-cn/azure-tts-lexicon-cn/main/lexicon.xml
 ```
 
 在 SSML 中使用词典文件：
